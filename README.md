@@ -1,6 +1,3 @@
-# dall-e-prompt-generator
-GitHub Copilot: Here is the formatted description for GitHub:
-
 ## `promptgenerator.py` Script for DALL-E Prompt Generation
 
 This is a Python script that generates prompts for DALL-E, an image generator, using the OpenAI API and the ChatGPT API. The script allows the user to generate a random prompt or a prompt based on specific keywords. The generated prompt is then displayed to the user, along with a count of the total number of image generations.
